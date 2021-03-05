@@ -24,13 +24,13 @@ dependencies:
   flutter:
     sdk: flutter
   image_picker: ^0.6.7+4
-  image: ^2.1.4
+  # image: ^2.1.4
   firebase_messaging: ^7.0.3 
   tflite: ^1.1.1
   camera:
   path_provider:
   path:
-  splashscreen:
+  # splashscreen:
   flutter_email_sender: ^4.0.0
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
